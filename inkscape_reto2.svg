@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="inkscape_reto2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70199214"
+     inkscape:cx="368.95"
+     inkscape:cy="409.54874"
+     inkscape:window-width="1862"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect3054"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,4.9921382"
+       not_jump="false"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter429"
+       inkscape:label="filtro0"
+       x="-0.0029432513"
+       y="-0.00295735"
+       width="1.0058865"
+       height="1.0059147">
+      <feBlend
+         mode="darken"
+         in2="SourceGraphic"
+         id="feBlend431" />
+      <feFlood
+         id="feFlood433"
+         flood-color="rgb(52,101,164)"
+         flood-opacity="1" />
+      <feMorphology
+         id="feMorphology435"
+         operator="erode"
+         radius="7.4569217289719631" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path4034"
+       style="fill:#fff6d5;stroke:#0000ff;stroke-width:0.318;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 160.86475,72.492753 a 21.723989,23.047185 1.3709911e-7 0 0 -0.44582,0.0178 H 50.163076 a 23.029667,22.696564 89.215513 0 0 -0.0035,0 23.029667,22.696564 89.215513 0 0 -22.750759,22.96466 23.029667,22.696564 89.215513 0 0 22.640692,23.094217 23.029667,22.696564 89.215513 0 0 0.113528,-10e-4 v 0.0192 H 160.86748 a 21.723989,23.047185 1.3709911e-7 0 0 0.001,0 21.723989,23.047185 1.3709911e-7 0 0 21.72277,-23.047227 v -0.004 a 21.723989,23.047185 1.3709911e-7 0 0 -21.7265,-23.04365 z M 50.549351,87.595133 a 8.1414097,8.0407387 0 0 1 8.142924,8.03881 v 0.001 a 8.1414097,8.0407387 0 0 1 -8.140846,8.040937 8.1414097,8.0407387 0 0 1 -8.142233,-8.039517 8.1414097,8.0407387 0 0 1 8.140155,-8.04165 z m 110.382539,0 a 7.6419723,7.573408 89.999999 0 1 7.57459,7.64018 l 1e-5,10e-4 a 7.6419723,7.573408 89.999999 0 1 -7.57322,7.642307 7.6419723,7.573408 89.999999 0 1 -7.5732,-7.641597 7.6419723,7.573408 89.999999 0 1 7.57182,-7.64231 z" />
+  </g>
+</svg>
